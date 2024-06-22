@@ -1,2 +1,2 @@
 # swift-sfu
-SwiftRTC - SFU in Swift with Sans-IO
+SwiftSFU - SFU in Swift with Sans-IO
